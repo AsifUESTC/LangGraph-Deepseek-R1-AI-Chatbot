@@ -1,4 +1,4 @@
-# LangGraph-Deepseek-R1-AI-Chatbot
+# LangGraph-Deepseek-R1 AI-Chatbot
 
 LangGraph + Deepseek R1
 
